@@ -1,6 +1,6 @@
 # Challenge: Juggling facts
 
-Day 01 – Auth Bypass via Type Confusion
+# Day 01 – Auth Bypass via Type Confusion
 
-This challenge involved bypassing an IP-based access control check in a PHP backend.
-By sending a boolean true as JSON instead of the expected string ("secrets"), the server skipped the access restriction logic and returned the protected data.
+In this challenge, the goal was to access some hidden "secrets" that were only supposed to be available from localhost.
+Instead of sending "secrets" as a string in JSON, I just sent true — and that was enough to bypass the IP check on the backend.
