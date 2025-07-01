@@ -1,5 +1,5 @@
 
-#Day 01 – Auth Bypass via Type Confusion
+# Day 01 – Auth Bypass via Type Confusion
 ## Challenge: Juggling facts
 
 In this challenge, the goal was to access some hidden "secrets" that were only supposed to be available from localhost.
