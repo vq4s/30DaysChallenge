@@ -5,11 +5,11 @@ This challenge present a very simple web page with PIN input. The correct PIN in
 
 ```
 <script>
-		window.CONFIG = window.CONFIG || {
-			buildNumber: "v20190816",
-			debug: false,
-			modelName: "Valencia",
-			correctPin: "7410",
-		}
-	</script>
+	window.CONFIG = window.CONFIG || {
+		buildNumber: "v20190816",
+		debug: false,
+		modelName: "Valencia",
+		correctPin: "7410",
+	}
+</script>
 ```
