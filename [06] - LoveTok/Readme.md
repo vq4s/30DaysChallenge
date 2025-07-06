@@ -1,4 +1,4 @@
-# Day 05 - LoveTok
+# Day 06 - LoveTok
 ## Challenge: LoveTok
 
 The vulnerability was caused by the unsafe use of PHP's eval() function on user input filtered only with addslashes(). 
