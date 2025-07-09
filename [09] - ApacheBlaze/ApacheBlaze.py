@@ -3,7 +3,7 @@ import requests
 import re
 
 if len(sys.argv) != 2:
-    print("Usage: python3 jscalc.py ip:port")
+    print("Usage: python3 ApacheBlaze.py ip:port")
     sys.exit(1)
 
 host = sys.argv[1]
