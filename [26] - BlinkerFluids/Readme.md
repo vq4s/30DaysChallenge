@@ -1,4 +1,4 @@
-# Day 25
+# Day 26
 ## Challenge: BlinkerFluids
 
 This challenge exploits a known Remote Code Execution vulnerability in the `md-to-pdf` NPM package, specifically version 4.1.0. 
