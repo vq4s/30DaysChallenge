@@ -1,4 +1,4 @@
-# 30 Days Web Challenge
+# 30 Days Web Challenge - DONE
 
 In this repository i will document my 30 days HackTheBox web challenge. 
 Each day, i pick one web challenge from HackTheBox and write a python script to automatically solve it from request to flag extraction.
